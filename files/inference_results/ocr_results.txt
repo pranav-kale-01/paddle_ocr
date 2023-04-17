@@ -3,3 +3,8 @@ final_batch_number: None
 time - 7.177757024765015 - 7.085907220840454
 full ocr text: Points^Difficulty levels for Questions^Diflicarfly level ?^Ditlicsdly level 2^10^*Evaluation will be done based on correctness of answer^Possible Questions may Include:^DiflicalyleseLL:^What is Artimas?^Describe AiMSA^Difficado= lerel 24^Events Hosted by AiMS.A^(More Smple Qucstions will be made available on the day of Event.)^Algorithms can be designed by using already available libraries to train a Language Model or^teams can develep their own logie to categorise the questions and their responses which eould^be retrieved by using search algorithms.^To obtain the data teams may refer to PCCoE AiMSA' s social media handles.^Instagram^Linkedin^Facebook^Twitter
 
+filename: Test.png
+final_batch_number: None
+time - 15.085548400878906 - 14.972961664199829
+full ocr text: Points^Difficulty levels for Questions^Diflicarfly level ?^Ditlicsdly level 2^10^*Evaluation will be done based on correctness of answer^Possible Questions may Include:^DiflicalyleseLL:^What is Artimas?^Describe AiMSA^Difficado= lerel 24^Events Hosted by AiMS.A^(More Smple Qucstions will be made available on the day of Event.)^Algorithms can be designed by using already available libraries to train a Language Model or^teams can develep their own logie to categorise the questions and their responses which eould^be retrieved by using search algorithms.^To obtain the data teams may refer to PCCoE AiMSA' s social media handles.^Instagram^Linkedin^Facebook^Twitter
+
